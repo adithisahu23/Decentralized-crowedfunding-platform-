@@ -121,7 +121,7 @@ npx hardhat run scripts/deploy.js --network goerli
 
 ### Contract Address
 After deployment, the contract address will be displayed in the console. Save this address for interacting with your deployed contract.
-
+contract address : 0xd9145CCE52D386f254917e481eB44e9943F39138
 ---
 
 ## Contributing
