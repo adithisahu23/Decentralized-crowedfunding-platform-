@@ -137,5 +137,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For support and questions, please open an issue in the repository or contact our development team.
 
 ---
+<img width="1920" height="1020" alt="Screenshot 2025-06-25 215204" src="https://github.com/user-attachments/assets/acaafec8-0371-48a5-9db6-14dd8cf30460" />
+
 
 *Built with ❤️ for the decentralized future*
